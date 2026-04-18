@@ -11,8 +11,6 @@ redirect_from:
 
 Robotics researcher working on real-world autonomy, robotic perception, and vision-based navigation in outdoor agricultural environments. Experienced in ROS, machine learning, deep learning, and hands-on robotic system development.
 
-Right to work in the UK: Global Talent Visa valid until 4 July 2028.
-
 ## Employment
 
 **Postdoctoral Research Assistant**, University of Lincoln  
