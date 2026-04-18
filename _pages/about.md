@@ -11,6 +11,15 @@ Postdoctoral Research Assistant in robotic perception and navigation at the Univ
 
 I completed my PhD in Computer Science at the University of Lincoln in February 2024. My doctoral work, *Vision-Based Autonomous Navigation System Development for Agri-Robots*, explored robust crop-row detection, in-field navigation, and end-of-row behaviour using cost-effective vision sensors. Before moving to the UK, I worked as an Assistant Lecturer at the Sri Lanka Institute of Information Technology, where I taught robotics, embedded systems, IoT, and electronics while supervising undergraduate research projects.
 
+🌱 I’m currently working on developing visual perception algorithms for agri-robots.
+
+<div class="homepage-gif-row">
+  <img src="https://raw.githubusercontent.com/rajithadesilva/rajithadesilva/main/gif/rds1.gif" alt="Rajitha de Silva research GIF 1">
+  <img src="https://raw.githubusercontent.com/rajithadesilva/rajithadesilva/main/gif/rds2.gif" alt="Rajitha de Silva research GIF 2">
+  <img src="https://raw.githubusercontent.com/rajithadesilva/rajithadesilva/main/gif/rds3.gif" alt="Rajitha de Silva research GIF 3">
+  <img src="https://raw.githubusercontent.com/rajithadesilva/rajithadesilva/main/gif/rds4.gif" alt="Rajitha de Silva research GIF 4">
+</div>
+
 ## Research Interests
 
 - Robotic perception for outdoor autonomy
